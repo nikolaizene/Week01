@@ -13,11 +13,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More about classes and proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating and adding references to assemblies", "Creating and adding references to assemblies\Creating and adding references to assemblies.csproj", "{8CEFB722-059F-463A-A40E-CE183EC18DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating and adding references to assemblies vol 2", "Creating and adding references to assemblies vol 2\Creating and adding references to assemblies vol 2.csproj", "{DBB7130D-6B4F-4EDB-8309-9B4EC50D9F54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creating and adding references to assemblies vol 2", "Creating and adding references to assemblies vol 2\Creating and adding references to assemblies vol 2.csproj", "{DBB7130D-6B4F-4EDB-8309-9B4EC50D9F54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClient", "ConsoleApp2\MyClient.csproj", "{4852C3BB-47CA-419B-A1D6-A0F41AC1106C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCollections", "WorkingWithCollections\WorkingWithCollections.csproj", "{78FF0414-3D45-4F03-920E-A7178C7839D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK02", "WEEK02", "{D5DA9049-2C99-4F68-A2ED-D2F84CE7B348}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK03", "WEEK03", "{CF9DDF8A-4D66-4905-9E76-9CF9F8073969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
