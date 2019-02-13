@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Creating_and_adding_references_to_assemblies_vol_2</RootNamespace>
+  </PropertyGroup>
+
+</Project>
