@@ -13,11 +13,86 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More about classes and proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating and adding references to assemblies", "Creating and adding references to assemblies\Creating and adding references to assemblies.csproj", "{8CEFB722-059F-463A-A40E-CE183EC18DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating and adding references to assemblies vol 2", "Creating and adding references to assemblies vol 2\Creating and adding references to assemblies vol 2.csproj", "{DBB7130D-6B4F-4EDB-8309-9B4EC50D9F54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creating and adding references to assemblies vol 2", "Creating and adding references to assemblies vol 2\Creating and adding references to assemblies vol 2.csproj", "{DBB7130D-6B4F-4EDB-8309-9B4EC50D9F54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClient", "ConsoleApp2\MyClient.csproj", "{4852C3BB-47CA-419B-A1D6-A0F41AC1106C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCollections", "WorkingWithCollections\WorkingWithCollections.csproj", "{78FF0414-3D45-4F03-920E-A7178C7839D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week02", "Week02", "{7A73B0EE-686D-4120-B90C-E247FDC776B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week03", "Week03", "{3A1486B4-73FF-4EA8-8AE9-5DB355C3B4F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson01-04", "Lesson01-04", "{63C75C4C-93D9-4CF9-801D-1C5D7628EA89}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\Before.txt = Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\Before.txt
+		Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\http-message.gif = Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\http-message.gif
+		Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\Lesson03.html = Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\Lesson03.html
+		Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\styles.css = Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\styles.css
+		Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\www-diagram.gif = Week02\Week02 HTML\Week02 HTML\Lesson01-04\Work\www-diagram.gif
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson11", "Lesson11", "{A7CB17FB-BFFE-41D4-AE40-DB5A3749ED13}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson11\Work\Lesson11.html = Week02\Week02 HTML\Week02 HTML\Lesson11\Work\Lesson11.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson06", "Lesson06", "{A5F2DA59-E97F-42D8-B7FA-251261359A8B}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson06\lesson06.html = Week02\Week02 HTML\Week02 HTML\Lesson06\lesson06.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson12", "Lesson12", "{06A45B67-65D3-4530-8E29-178C795BD08B}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson12\Work\Lesson12.html = Week02\Week02 HTML\Week02 HTML\Lesson12\Work\Lesson12.html
+		Week02\Week02 HTML\Week02 HTML\Lesson12\Work\styles.css = Week02\Week02 HTML\Week02 HTML\Lesson12\Work\styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson08", "Lesson08", "{1793CFDD-74BC-411D-B67A-6AE242002713}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson08\Work\Lesson08.html = Week02\Week02 HTML\Week02 HTML\Lesson08\Work\Lesson08.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson09", "Lesson09", "{A1589032-1F5A-423E-96DA-50302221E0AB}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson09\Work\Lesson09.html = Week02\Week02 HTML\Week02 HTML\Lesson09\Work\Lesson09.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lesson10", "lesson10", "{D4797289-BD14-4E84-AD4D-C25E782F3230}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson10\Work\Lesson10.html = Week02\Week02 HTML\Week02 HTML\Lesson10\Work\Lesson10.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson19", "Lesson19", "{87E3FF43-5534-4FC5-A592-462627338D03}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson19 Working with canvas\Lesson19.html = Week02\Week02 HTML\Week02 HTML\Lesson19 Working with canvas\Lesson19.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson20", "Lesson20", "{A599D65D-0BA4-41DF-984C-150D687AEBE1}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson20\copy_paste_svg.html = Week02\Week02 HTML\Week02 HTML\Lesson20\copy_paste_svg.html
+		Week02\Week02 HTML\Week02 HTML\Lesson20\external_link.html = Week02\Week02 HTML\Week02 HTML\Lesson20\external_link.html
+		Week02\Week02 HTML\Week02 HTML\Lesson20\Illustrator_SVG.png.png = Week02\Week02 HTML\Week02 HTML\Lesson20\Illustrator_SVG.png.png
+		Week02\Week02 HTML\Week02 HTML\Lesson20\svg_interactivity.html = Week02\Week02 HTML\Week02 HTML\Lesson20\svg_interactivity.html
+		Week02\Week02 HTML\Week02 HTML\Lesson20\Test.svg = Week02\Week02 HTML\Week02 HTML\Lesson20\Test.svg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson15", "Lesson15", "{67C6D8A8-02E0-4CA0-8C82-3C566AA1B280}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson15\Lesson15.html = Week02\Week02 HTML\Week02 HTML\Lesson15\Lesson15.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson16", "Lesson16", "{8FE4B02D-DF84-4DD5-BAB6-6D0DC18F503A}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson16\Lesson16.html = Week02\Week02 HTML\Week02 HTML\Lesson16\Lesson16.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson18", "Lesson18", "{29DC6443-79FA-4D98-8CD8-9971A268C25F}"
+	ProjectSection(SolutionItems) = preProject
+		Week02\Week02 HTML\Week02 HTML\Lesson18\Work\30seconds.mp4 = Week02\Week02 HTML\Week02 HTML\Lesson18\Work\30seconds.mp4
+		Week02\Week02 HTML\Week02 HTML\Lesson18\Work\Lesson18.html = Week02\Week02 HTML\Week02 HTML\Lesson18\Work\Lesson18.html
+		Week02\Week02 HTML\Week02 HTML\Lesson18\Work\poster.jpg = Week02\Week02 HTML\Week02 HTML\Lesson18\Work\poster.jpg
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +140,18 @@ Global
 		{DBB7130D-6B4F-4EDB-8309-9B4EC50D9F54} = {6D008971-076C-449A-840D-FC523CC65283}
 		{4852C3BB-47CA-419B-A1D6-A0F41AC1106C} = {6D008971-076C-449A-840D-FC523CC65283}
 		{78FF0414-3D45-4F03-920E-A7178C7839D6} = {6D008971-076C-449A-840D-FC523CC65283}
+		{63C75C4C-93D9-4CF9-801D-1C5D7628EA89} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{A7CB17FB-BFFE-41D4-AE40-DB5A3749ED13} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{A5F2DA59-E97F-42D8-B7FA-251261359A8B} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{06A45B67-65D3-4530-8E29-178C795BD08B} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{1793CFDD-74BC-411D-B67A-6AE242002713} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{A1589032-1F5A-423E-96DA-50302221E0AB} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{D4797289-BD14-4E84-AD4D-C25E782F3230} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{87E3FF43-5534-4FC5-A592-462627338D03} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{A599D65D-0BA4-41DF-984C-150D687AEBE1} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{67C6D8A8-02E0-4CA0-8C82-3C566AA1B280} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{8FE4B02D-DF84-4DD5-BAB6-6D0DC18F503A} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
+		{29DC6443-79FA-4D98-8CD8-9971A268C25F} = {7A73B0EE-686D-4120-B90C-E247FDC776B7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A6174D0-3692-413A-8BAB-8F1A99A5AB24}
