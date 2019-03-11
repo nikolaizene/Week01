@@ -11,7 +11,7 @@ namespace Creating_and_adding_references_to_assemblies_vol_2
             return GetWebpage(url);
         }
 
-        public string ScarpeWebpage(string, url, string filepath)
+        public string ScarpeWebpage(string url, string filepath)
         {
 
             string reply = GetWebpage(url);

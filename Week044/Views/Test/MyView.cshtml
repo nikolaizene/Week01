@@ -1,4 +1,6 @@
-﻿@{
+﻿@model Facade.EmployeeViewModel
+
+@{
     Layout = null;
 }
 
@@ -12,13 +14,12 @@
 <body>
     Hello @Model.UserName
     <hr />
-<div>
-    <b>Employee Details</b><br />
-    Employee Name: @Model.EmployeeName <br />
-    <span style="background-color: @Model.SalaryColor">
-        Employee Salary: @Model.Salary
-    </span>
-   
-</div>
+    <div>
+        <b>Employee Details</b><br />
+        Employee Name : @Model.EmployeeName <br />
+        <span style="background-color: @Model.SalaryColor">
+            Employee Salary: @Model.Salary
+        </span>
+    </div>
 </body>
 </html>
