@@ -35,7 +35,7 @@ namespace Facade
                     "yellow" : "greem";
             else SalaryColor = "red";
         }
-        internal void setSalary(EmployeeViewModel e)
+        internal void setSalary(Employee e)
         {
             Salary = e.Salary.ToString("C");
         }
